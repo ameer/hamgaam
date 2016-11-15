@@ -4,7 +4,7 @@
 */
 .sm-clean a {font-size:16px !important;}
 .sm-clean ul a {font-size:14px !important;}
-.sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active, .sm-clean a.highlighted {background:#ffa500;color:#fff !important}
-.sm-clean a span.sub-arrow {border-color:#fff !important}
+.sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active, .sm-clean a.highlighted {background:#ffa500 !important;color:#fff !important}
+.sm-clean a span.sub-arrow {border-color:#fff transparent transparent transparent !important}
 ul#main-menu ul, ul#main-menu ul > li a {background-color: #ffa500 !important;}
 .sm-clean > li > ul:after, .sm-clean > li > ul:before {display:none !important}
