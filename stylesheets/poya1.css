@@ -8,3 +8,6 @@
 .sm-clean a span.sub-arrow {border-color:#fff transparent transparent transparent !important}
 ul#main-menu ul, ul#main-menu ul > li a {background-color: #ffa500 !important;}
 .sm-clean > li > ul:after, .sm-clean > li > ul:before {display:none !important}
+ul#main-menu:hover ul, ul#main-menu ul:hover > li a {
+    background-color: #ffa500 !important;
+}
