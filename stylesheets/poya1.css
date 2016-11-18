@@ -8,10 +8,13 @@
 .sm-clean a span.sub-arrow {border-color:#fff transparent transparent transparent !important}
 ul#main-menu ul, ul#main-menu ul > li a {background-color: #ffa500 !important;}
 .sm-clean > li > ul:after, .sm-clean > li > ul:before {display:none !important}
+.sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active, .sm-clean a.highlighted {
+    color: #fff;
+    background: #ffa500;
+}
 ul#main-menu ul, ul#main-menu ul > li a {
     background-color: #60CD6D !important;
 }
 ul#main-menu ul, ul#main-menu ul > li a:hover {
     background-color: #ffa500 !important;
 }
-
