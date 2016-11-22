@@ -18,6 +18,6 @@
 	url('https://ameer.github.io/hamgaam/fonts/Vazir-FD-WOL.woff') format('woff'), /* Pretty Modern Browsers */
 	url('https://ameer.github.io/hamgaam/fonts/Vazir-FD-WOL.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
-body {font-family:vazir !important}
+html *, body *{font-family:vazir !important}
 
 
