@@ -10,3 +10,14 @@
 	url('https://ameer.github.io/hamgaam/fonts/Vazir-Bold-FD-WOL.woff') format('woff'), /* Pretty Modern Browsers */
 	url('https://ameer.github.io/hamgaam/fonts/Vazir-Bold-FD-WOL.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
+@font-face {
+	font-family: 'vazir';
+	font-weight: normal;
+	src: url('https://ameer.github.io/hamgaam/fonts/Vazir-FD-WOL.eot'); /* IE9 Compat Modes */
+	src: url('https://ameer.github.io/hamgaam/fonts/Vazir-FD-WOL.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('https://ameer.github.io/hamgaam/fonts/Vazir-FD-WOL.woff') format('woff'), /* Pretty Modern Browsers */
+	url('https://ameer.github.io/hamgaam/fonts/Vazir-FD-WOL.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+body {font-family:vazir !important}
+
+
