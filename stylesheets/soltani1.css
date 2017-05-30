@@ -84,7 +84,9 @@ html *, body * {font-family: Vazir !important}
     transition: 0.3s;
     border-radius: 5px; /* 5px rounded corners */
 }
-
+card-container {
+    padding: 2px 16px;
+}
 /* Add rounded corners to the top left and the top right corner of the image */
 img.card {
     border-radius: 5px 5px 0 0;
