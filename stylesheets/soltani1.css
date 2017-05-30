@@ -114,3 +114,6 @@ img.card {
         margin-top: 0;
     }
 }
+.row-grid + .row-grid {
+    margin-top: 15px;
+}
