@@ -32,11 +32,13 @@ html *, body * {font-family: Vazir !important}
 {
 	position: relative;
 	padding: 10px 40px;
-  margin: 0px 10px 10px 0px;
-  float: right;
+	margin: 0px 8% 10px 0px;
+	float: right;
 	border-radius: 10px;
 	color: #FFF;
-	text-decoration: none;	
+	text-decoration: none;
+	width: 85%;
+	text-align: center;
 }
 
 .blue
